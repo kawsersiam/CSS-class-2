@@ -1,0 +1,141 @@
+.main{
+    width: 100%;
+    background-color:#faf5f5 ;
+}
+
+.starTech{
+    background-color: #faf5f5;
+    width: 100%;
+    margin-left:6%;
+    margin-right:6%;
+}
+
+
+/* Main style start starTech */
+.product{
+    width:22%;
+    margin:5px;
+    display:inline-block;
+    
+}
+
+.ProductImg{
+    width: 100%;
+    margin-bottom: 4px;
+    background-color: #ffffff;
+    border-radius:10px 10px 0 0;
+}
+
+.lapPic{
+    width: 100%;
+}
+
+.Info{
+    background-color:#ffffff;
+    font-family:sans-serif;
+    padding: 10px 10px 1px 10px; 
+    border-radius:0 0 10px 10px ; 
+}
+
+.Description{
+    color: black;
+    text-decoration: none;
+    
+}
+.price{
+    color: rgb(217, 61, 0);
+    font-size: 20px;
+    display: block;
+    
+}
+/* Main style end starTech*/
+
+.ProductImg2{
+    background-color:#faf5f5 ;
+    display:inline-block;
+    margin-bottom: 0.5px;
+    margin-top: 20px;
+}
+
+.des2{
+    font-size: 15px;
+    padding-top: 4px;
+    display: inline-block;
+    width: 100%;
+}
+.gfpic{
+    border-radius:10px 10px 0 0;
+}
+
+/* job3 start */
+.product3{
+    width: 22%;
+    height: 25%;
+    display: inline-block;
+}
+.compic{
+    width: 100%;
+    height: 20%;
+    display: inline-block;
+    border-radius:10px 10px 0 0;
+}
+.price4{
+    display: inline-block;
+}
+ 
+/* job4 start */
+.mobpic{
+    border-radius:10px 10px 0 0;
+}
+
+
+/* creative it project1 start */
+.creative{
+    margin-top: 50px;
+    padding-bottom: 30px;
+}
+.graphicsimg{
+    border-radius: 10px 10px 0 0;
+    display: inline-block;
+}
+.title{
+   padding-bottom: 30px;
+}
+.allcourse{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #DF6812;
+    display: inline;
+}
+.web{
+    color: black;
+    font-size: 18px;
+    display: block;
+    text-decoration: none;
+}
+.review{
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.fee{
+    color: black;
+    text-decoration: none;
+    font-size: 13px;
+}
+.clickdiscount{
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: none;
+    color: rgb(106, 63, 6);
+    padding: 15px 3px 15px 3px;
+    padding-bottom: 10px;
+    display: inline-block;
+    text-align: center;
+    line-height: 22px;
+    border: 1px solid #ff7e31;
+    border-radius: 8px;
+}
+
+/* creative it project2-3-4 start */
+
+
